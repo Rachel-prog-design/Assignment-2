@@ -1,0 +1,50 @@
+header {
+    text-align: left;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: left;
+    background-color: #f1f1f1;
+    padding: 20px 40px;
+    border-radius: 10px;
+
+}
+
+body {
+    margin: 50px 100px;
+    background-color: Cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+form{
+    width: 700px;
+    background-color: lightslategray;
+    padding: 30px;
+    margin: 20px;
+    text-decoration: solid;
+
+}
+h2, h3{
+    padding: 20px;
+    text-align: left;
+    font-size: 30px;
+    }
+
+p{
+    text-align: left;
+    padding: 20px;
+    font-size: 20px;
+}
+
+ul li {
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+#page{
+    justify-content: space-between;
+    border-radius: 10px;
+    
+}
