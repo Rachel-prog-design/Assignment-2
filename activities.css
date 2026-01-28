@@ -1,4 +1,4 @@
-/* General page style */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f9f9f9;
@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-/* Header navigation */
+
 header {
     background-color: #1e3a5f;
     padding: 15px;
@@ -25,19 +25,19 @@ header a:hover {
     text-decoration: underline;
 }
 
-/* Heading */
+
 h2 {
     margin-top: 30px;
     color: #1e3a5f;
 }
 
-/* Paragraph */
+
 p {
     font-size: 16px;
     color: #333;
 }
 
-/* List styling */
+
 ul {
     list-style-type: disc;
     width: 300px;
@@ -50,15 +50,15 @@ li {
     color: #444;
 }
 
-/* Images */
+
 img {
-    width: 260px;
+    width: 600px;
     height: auto;
     margin: 12px;
     border-radius: 10px;
 }
 
-/* External link */
+
 a[target="_blank"] {
     display: inline-block;
     margin-top: 20px;
@@ -71,7 +71,7 @@ a[target="_blank"]:hover {
     text-decoration: underline;
 }
 
-/* Back to home link */
+
 a[href="index.html"] {
     display: block;
     margin: 25px 0;
